@@ -1,6 +1,6 @@
 # Cod Reducere Modivo
 
-O colecție de coduri de reducere Modivo. Le folosim pentru testarea cuvintelor cheie cod reducere Modivo, voucher Modivo, cupon Modivo, și cod promotional Modivo de pe Cuponescu.ro.
+O colecție de coduri de reducere Modivo. Le folosim pentru testarea cuvintelor cheie [cod reducere Modivo](https://cuponescu.ro/magazin/modivo), [voucher Modivo](https://cuponescu.ro/magazin/modivo), [cupon Modivo](https://cuponescu.ro/magazin/modivo), și [cod promotional Modivo](https://cuponescu.ro/magazin/modivo) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-modivo a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
